@@ -9,7 +9,7 @@ Data Cleaning - It involved removing of duplicates, spaces, special characters, 
 Created nested functions and added new data column based on that to get additional information from data set.
 Created Pivot Tables, Charts, Graphs to analyse the data through visual representation and interpret the information easily.
 Created a proper dashboard adding slicers so that user can interact with dashboard and analyse different scenarios.
-Utlised Macro to create Clear Filter Button to clear all filters on dashboard in just single click.
+Utilised Excel Macros to create Clear Filter Button to clear all filters on dashboard in just single click.
 
 # Key Insights
 Males tend to purchase bikes more as compared to Females as their average monthly income is approx $60,000.
