@@ -11,7 +11,7 @@ To create a dashboard in excel to study the sales of bikes and factors which ten
 5. Created a proper dashboard adding slicers so that user can interact with dashboard and analyse different scenarios.
 6. Utilised Excel Macros to create Clear Filter Button to clear all filters on dashboard in just single click.
 
-<img width="833" alt="Bike Sales Dashboard" src="https://github.com/pritishgp/Excel-Dashboard/assets/133867934/0cf4d941-e9ab-4be2-9729-ca24811001b2">
+<img width="948" alt="Bike Sales Dashboard Full" src="https://github.com/pritishgp/Excel-Dashboard/assets/133867934/6b235eac-64a7-4b58-bf96-38625e414571">
 
 # Key Insights
 1. Males tend to purchase bikes more as compared to Females as their average monthly income is approx $60,000.
